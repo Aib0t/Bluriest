@@ -9,7 +9,7 @@ This is my first ever project in c++ and first RE project as well. I'm aiming to
 2) Basic analysis of UDP and TCP packets
 3) Baisc code RE
 
-# What is know about Blur inner structure:
+# What is known about Blur inner structure:
 
 - Written in C++, menu scripts use Lua.
 - Lan multiplayer uses P2P
